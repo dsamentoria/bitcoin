@@ -18,6 +18,10 @@ A taxa de desligamento, quando aplicada a uma base de clientes, refere-se à pro
 
 O churn está intimamente relacionado ao conceito de tempo médio de vida do cliente. Por exemplo, uma taxa de rotatividade anual de 25% implica em uma vida média do cliente de quatro anos. Uma taxa de rotatividade anual de 33% implica em uma vida média do cliente de três anos. A taxa de churn pode ser minimizada pela criação de barreiras que desencorajam os clientes a mudar de fornecedores (períodos de vinculação contratual, uso de tecnologia proprietária, serviços de valor agregado, modelos de negócios exclusivos, etc.) ou por meio de atividades de retenção, como programas de fidelidade. É possível exagerar a taxa de churn, como quando um consumidor descarta o serviço, mas o reinicia no mesmo ano. Assim, uma distinção clara deve ser feita entre "churn bruto", o número total de desconexões absolutas, e "churn líquido", a perda geral de assinantes ou membros. A diferença entre as duas medidas é o número de novos assinantes ou membros que aderiram durante o mesmo período. Os fornecedores podem descobrir que, se oferecerem umlíder de perda "especial introdutório", pode levar a uma maior taxa de rotatividade e abuso de assinantes, já que alguns assinantes assinam, deixam o serviço expirar e, em seguida, assinam novamente para aproveitar as vantagens contínuas das ofertas especiais atuais.
 
+
+![image](https://user-images.githubusercontent.com/72530507/131257274-9b1b6298-ca3c-47a5-b8e5-4052a02068e3.png)
+
+
 # REVENUE CHURN
 
 O churn da receita é o valor monetário da receita recorrente perdida em um período dividido pela receita total no início do período. O churn de receita é comumente usado em Software as a Service (SaaS) e outros modelos de negócios que dependem de modelos de receita recorrentes.
