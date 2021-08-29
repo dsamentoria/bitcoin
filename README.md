@@ -1,3 +1,11 @@
+![image](https://user-images.githubusercontent.com/72530507/131257094-d9d5d7af-d46e-4de8-b05f-3755745714f0.png)
+
+
+
+
+
+
+
 # CHURN - TAXA DE ROTATIVIDADE
 
 Taxa de rotatividade (às vezes chamada de taxa de atrito ), em seu sentido mais amplo, é uma medida do número de indivíduos ou itens que saem de um grupo coletivo durante um período específico. É um dos dois fatores principais que determinam o nível estável de clientes que uma empresa oferecerá suporte.
